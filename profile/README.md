@@ -1,23 +1,18 @@
 # Weather Electric
 
-Unity resources and BONELAB modding
+Unity resources and modding
 
 [Discord](https://weatherelectric.xyz/discord)
-[Thunderstore](https://bonelab.thunderstore.io/package/SoulWithMae/)
-[Mod.io](https://mod.io/u/soulwithmae/)
 
-## BONELAB Modding
+## Unity Modding
 
-All of our BONELAB-related content.
-
-* [Code Mods](https://docs.weatherelectric.xyz/bonelab-mods.html#code)
-* [SDK Mods](https://docs.weatherelectric.xyz/bonelab-mods.html#sdk)
+* [Code Mods (Lethal Company)](https://thunderstore.io/c/lethal-company/p/SoulWithMae/)
+* [Code Mods (BONELAB)](https://thunderstore.io/c/bonelab/p/SoulWithMae/)
+* [SDK Mods (BONELAB)](https://mod.io/u/soulwithmae/)
 
 ## Unity
 
-All of our Unity resources.
-
-* [Unity](https://docs.weatherelectric.xyz/unity.html)
+* [UnitySceneAutosave](https://github.com/WeatherElectric/UnitySceneAutoSave)
 
 ## Contact Information
 
