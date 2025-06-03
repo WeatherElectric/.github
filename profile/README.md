@@ -8,7 +8,7 @@ Unity resources and modding
 
 * [Code Mods (Lethal Company)](https://thunderstore.io/c/lethal-company/p/SoulWithMae/)
 * [Code Mods (BONELAB)](https://thunderstore.io/c/bonelab/p/SoulWithMae/)
-* [SDK Mods (BONELAB)](https://mod.io/u/soulwithmae/)
+* [SDK Mods (BONELAB)](https://mod.io/u/fragiledeviations/)
 
 ## Unity
 
@@ -16,4 +16,4 @@ Unity resources and modding
 
 ## Contact Information
 
-* Email: `labyrinth@weatherelectric.xyz`
+* Email: `mae@weatherelectric.xyz`
